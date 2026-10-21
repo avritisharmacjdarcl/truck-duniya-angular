@@ -1,0 +1,57 @@
+<!-- Floating button (was built by partner.js at runtime) -->
+<button type="button" id="tdPartnerFab" class="td-partner-fab" aria-label="Become our Sales Partner" (click)="openModal()">
+  <span class="td-partner-fab-ic" aria-hidden="true">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="22" height="22">
+      <path d="M20 12v6a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-6"/>
+      <polyline points="22 4 12 14 8 10"/>
+      <path d="M4 6l4 4"/>
+    </svg>
+  </span>
+  <span class="td-partner-fab-label">Become a<br>Sales Partner</span>
+</button>
+
+<!-- Modal: intro -> form -> success -->
+<div id="tdPartnerModal" class="td-partner-modal" role="dialog" aria-modal="true" aria-labelledby="tdPartnerTitle" [hidden]="!open()">
+  <div class="td-partner-backdrop" (click)="closeModal()"></div>
+  <div class="td-partner-panel" role="document">
+    <button type="button" class="td-partner-close" aria-label="Close" (click)="closeModal()">&times;</button>
+
+    <div class="td-partner-step" data-step="intro" [hidden]="step() !== 'intro'">
+      <span class="td-partner-eyebrow">Sales Partner Program</span>
+      <h2 id="tdPartnerTitle">Become Our Sales Partner</h2>
+      <p>Partner with Truck Duniya and grow your business by offering India's leading trucking solutions. Earn attractive margins while helping fleet owners simplify their operations.</p>
+      <div class="td-partner-callout">
+        <strong>Ready to Partner with Us?</strong>
+        <span>Click the button below to submit your details.</span>
+      </div>
+      <button type="button" class="td-partner-btn" (click)="setStep('form')">Apply Now &nbsp;→</button>
+    </div>
+
+    <form class="td-partner-step" data-step="form" novalidate [hidden]="step() !== 'form'" (submit)="submit($event)">
+      <button type="button" class="td-partner-back" (click)="setStep('intro')">← Back</button>
+      <h2>Partner Registration Form</h2>
+      <p class="td-partner-form-lede">Tell us a bit about yourself and our team will get in touch.</p>
+      <div class="td-partner-grid">
+        <div class="td-partner-field td-partner-field-full"><label>Full Name<span class="td-partner-req">*</span></label><input name="fullname" type="text" required autocomplete="name" placeholder="Ravi Kumar"></div>
+        <div class="td-partner-field"><label>Mobile Number<span class="td-partner-req">*</span></label><input name="mobile" type="tel" required pattern="[0-9+\- ]{7,15}" autocomplete="tel" placeholder="+91 98765 43210"></div>
+        <div class="td-partner-field"><label>Email Address<span class="td-partner-req">*</span></label><input name="email" type="email" required autocomplete="email" placeholder="you&#64;example.com"></div>
+        <div class="td-partner-field"><label>City / District<span class="td-partner-req">*</span></label><input name="city" type="text" required autocomplete="address-level2" placeholder="Gurugram"></div>
+        <div class="td-partner-field"><label>State<span class="td-partner-req">*</span></label><input name="state" type="text" required autocomplete="address-level1" placeholder="Haryana"></div>
+        <div class="td-partner-field"><label>PIN Code<span class="td-partner-req">*</span></label><input name="pincode" type="text" required inputmode="numeric" pattern="[0-9]{6}" autocomplete="postal-code" placeholder="122003"></div>
+      </div>
+      <button type="submit" class="td-partner-btn" [disabled]="submitting()">
+        @if (submitting()) { Submitting… } @else { Submit &nbsp;→ }
+      </button>
+      <div class="td-partner-formerr" role="alert" [hidden]="!error()">{{ error() }}</div>
+    </form>
+
+    <div class="td-partner-step" data-step="success" [hidden]="step() !== 'success'">
+      <div class="td-partner-success-ic" aria-hidden="true">
+        <svg viewBox="0 0 64 64" width="72" height="72"><circle cx="32" cy="32" r="30" fill="none" stroke="currentColor" stroke-width="3" opacity="0.35"/><path d="M18 33 L28 43 L46 23" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+      <h2>Thank You for Showing Your Interest!</h2>
+      <p>Your application has been submitted successfully. Our team will review your details and get in touch with you soon to discuss the partnership opportunity.</p>
+      <button type="button" class="td-partner-btn td-partner-btn-outline" (click)="closeModal()">Close</button>
+    </div>
+  </div>
+</div>

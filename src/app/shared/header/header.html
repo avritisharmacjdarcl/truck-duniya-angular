@@ -1,0 +1,40 @@
+<header class="site-header" [class.is-scrolled]="scrolled()">
+  <div class="container header-inner">
+    <a routerLink="/" class="logo">
+      <span class="logo-mark"><img src="/assets/td-mark.svg?v=2" alt="Truck Duniya"></span>
+      <span class="logo-name">
+        <span class="logo-text">Truck <span>Duniya</span></span>
+        <span class="logo-tagline">Truck Ki Har Zaroorat</span>
+      </span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation" (click)="toggleMenu()">☰</button>
+    <nav class="nav" id="mainnav" [class.open]="menuOpen()">
+      <a routerLink="/">Home</a>
+      <a routerLink="/services">Services</a>
+      <a routerLink="/about">About Us</a>
+      <a routerLink="/investor-relations">Investor Relations</a>
+
+      <a routerLink="/contact">Contact Us</a>
+      <a routerLink="/fastag" class="cta cta-secondary">Buy FASTag</a>
+      <a routerLink="/vltd" class="cta cta-secondary cta-pulse">Buy GPS</a>
+      <div class="td-lang">
+        <span class="td-lang-ic" aria-hidden="true">🌐</span>
+        <select class="td-lang-select" aria-label="Change language" (change)="changeLanguage($event)">
+          <option value="">English</option>
+          <option value="hi">हिन्दी</option>
+          <option value="bn">বাংলা</option>
+          <option value="ta">தமிழ்</option>
+          <option value="te">తెలుగు</option>
+          <option value="gu">ગુજરાતી</option>
+          <option value="mr">मराठी</option>
+          <option value="pa">ਪੰਜਾਬੀ</option>
+          <option value="kn">ಕನ್ನಡ</option>
+          <option value="ml">മലയാളം</option>
+          <option value="ur">اردو</option>
+          <option value="or">ଓଡ଼ିଆ</option>
+        </select>
+        <div id="google_translate_element" class="td-lang-hidden"></div>
+      </div>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,95 @@
+/* Moved from the inline <style> block in the <head> of the original public/privacy-policy.html */
+/* Standalone document header / footer, no navigation, for compliance use */
+.doc-header {
+background: #fff;
+border-bottom: 1px solid var(--border);
+padding: 22px 0;
+}
+.doc-header .container {
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+}
+.doc-header .contact-btn {
+position: absolute;
+right: 20px;
+top: 50%;
+transform: translateY(-50%);
+display: inline-flex;
+align-items: center;
+gap: 6px;
+background: var(--primary);
+color: #fff;
+text-decoration: none;
+font-weight: 600;
+font-size: 14px;
+padding: 9px 18px;
+border-radius: 100px;
+transition: background 0.15s, box-shadow 0.2s;
+}
+.doc-header .contact-btn:hover {
+background: var(--primary-dark);
+box-shadow: 0 8px 20px rgba(192,67,39,0.28);
+}
+@media (max-width: 640px) {
+.doc-header .container { flex-wrap: wrap; gap: 14px; }
+.doc-header .contact-btn { position: static; transform: none; }
+}
+.doc-logo {
+display: inline-flex;
+align-items: center;
+gap: 12px;
+}
+.doc-logo-mark {
+width: 44px;
+height: 44px;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+}
+.doc-logo-mark img { width: 100%; height: 100%; display: block; }
+.doc-logo-name {
+display: inline-flex;
+flex-direction: column;
+line-height: 1;
+}
+.doc-logo-text {
+color: var(--text);
+text-transform: uppercase;
+letter-spacing: 0.04em;
+font-weight: 800;
+font-size: 18px;
+}
+.doc-logo-text span { color: #e34a26; }
+.doc-logo-tagline {
+font-size: 9.5px;
+color: var(--muted);
+font-weight: 600;
+letter-spacing: 0.14em;
+text-transform: uppercase;
+margin-top: 4px;
+}
+.doc-footer {
+background: #fff;
+border-top: 1px solid var(--border);
+padding: 28px 0 32px;
+text-align: center;
+}
+.doc-footer .doc-logo {
+justify-content: center;
+margin-bottom: 14px;
+}
+.doc-footer .doc-logo-mark {
+width: 36px;
+height: 36px;
+}
+.doc-footer .doc-logo-text { font-size: 15px; }
+.doc-footer .doc-logo-tagline { font-size: 8.5px; }
+.doc-footer p {
+margin: 0;
+color: var(--muted);
+font-size: 13.5px;
+line-height: 1.7;
+}
+.doc-footer strong { color: var(--text); }

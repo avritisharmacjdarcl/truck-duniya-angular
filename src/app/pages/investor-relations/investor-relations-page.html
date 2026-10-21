@@ -1,0 +1,39 @@
+ <section class="page-hero-v2">
+ <div class="container">
+ <span class="hero-badge"><span class="pulse"></span>Transrail Logistics Limited</span>
+ <h1 class="ph-h1">Investor <span class="accent">Relations.</span></h1>
+ <p class="ph-lede">Statutory disclosures and investor information for Transrail Logistics Limited, the company that operates Truck Duniya.</p>
+ </div>
+ </section>
+
+ <section class="section">
+ <div class="container">
+ <div class="ir-tabs" role="tablist" aria-label="Investor Relations">
+ <button class="ir-tab" role="tab" id="tab-financial" aria-controls="financial" [attr.aria-selected]="active() === 'financial'" [tabIndex]="active() === 'financial' ? 0 : -1" (click)="show('financial')" (keydown)="onKeydown($event, 0)">Financial Information</button>
+ <button class="ir-tab" role="tab" id="tab-annual-return" aria-controls="annual-return" [attr.aria-selected]="active() === 'annual-return'" [tabIndex]="active() === 'annual-return' ? 0 : -1" (click)="show('annual-return')" (keydown)="onKeydown($event, 1)">Annual Return</button>
+ <button class="ir-tab" role="tab" id="tab-csr" aria-controls="csr" [attr.aria-selected]="active() === 'csr'" [tabIndex]="active() === 'csr' ? 0 : -1" (click)="show('csr')" (keydown)="onKeydown($event, 2)">CSR</button>
+ </div>
+ <div class="ir-panel" role="tabpanel" id="financial" aria-labelledby="tab-financial" [hidden]="active() !== 'financial'">
+ <h2>Financial Information</h2>
+ <p>Audited financial statements of Transrail Logistics Limited for the last three financial years.</p>
+ <ul class="ir-docs">
+  <li><a class="ir-doc" href="/financedocs/TRL-Financial-Statements-2025-26.pdf" target="_blank" rel="noopener"><span class="ir-doc-icon" aria-hidden="true">PDF</span><span class="ir-doc-body"><span class="ir-doc-title">Audited Financial Statements FY 2025-26</span><span class="ir-doc-meta">Transrail Logistics Limited</span></span><span class="ir-doc-size">3.6 MB</span></a></li>
+  <li><a class="ir-doc" href="/financedocs/TRL-Financial-Statements-2024-25.pdf" target="_blank" rel="noopener"><span class="ir-doc-icon" aria-hidden="true">PDF</span><span class="ir-doc-body"><span class="ir-doc-title">Audited Financial Statements FY 2024-25</span><span class="ir-doc-meta">Transrail Logistics Limited</span></span><span class="ir-doc-size">4.7 MB</span></a></li>
+  <li><a class="ir-doc" href="/financedocs/TRL-Financial-Statements-2023-24.pdf" target="_blank" rel="noopener"><span class="ir-doc-icon" aria-hidden="true">PDF</span><span class="ir-doc-body"><span class="ir-doc-title">Audited Financial Statements FY 2023-24</span><span class="ir-doc-meta">Transrail Logistics Limited</span></span><span class="ir-doc-size">6.5 MB</span></a></li>
+ </ul>
+ </div>
+ <div class="ir-panel" role="tabpanel" id="annual-return" aria-labelledby="tab-annual-return" [hidden]="active() !== 'annual-return'">
+ <h2>Annual Return</h2>
+ <p>Annual Return in Form MGT-7 filed under Section 92 of the Companies Act, 2013 for the last three financial years.</p>
+ <ul class="ir-docs">
+  <li><a class="ir-doc" href="/financedocs/TRL-Form-MGT-7-2025-26.pdf" target="_blank" rel="noopener"><span class="ir-doc-icon" aria-hidden="true">PDF</span><span class="ir-doc-body"><span class="ir-doc-title">Form MGT-7 Annual Return FY 2025-26</span><span class="ir-doc-meta">Transrail Logistics Limited</span></span><span class="ir-doc-size">1.6 MB</span></a></li>
+  <li><a class="ir-doc" href="/financedocs/TRL-Form-MGT-7-2024-25.pdf" target="_blank" rel="noopener"><span class="ir-doc-icon" aria-hidden="true">PDF</span><span class="ir-doc-body"><span class="ir-doc-title">Form MGT-7 Annual Return FY 2024-25</span><span class="ir-doc-meta">Transrail Logistics Limited</span></span><span class="ir-doc-size">1.3 MB</span></a></li>
+  <li><a class="ir-doc" href="/financedocs/TRL-Form-MGT-7-2023-24.pdf" target="_blank" rel="noopener"><span class="ir-doc-icon" aria-hidden="true">PDF</span><span class="ir-doc-body"><span class="ir-doc-title">Form MGT-7 Annual Return FY 2023-24</span><span class="ir-doc-meta">Transrail Logistics Limited</span></span><span class="ir-doc-size">2.2 MB</span></a></li>
+ </ul>
+ </div>
+ <div class="ir-panel" role="tabpanel" id="csr" aria-labelledby="tab-csr" [hidden]="active() !== 'csr'">
+ <h2>CSR</h2>
+ <p>In terms of Section 135(9) of the Companies Act, 2013, the Company is not required to constitute a CSR Committee as its CSR obligation does not exceed Rs 50 lakh. The functions of the CSR Committee are discharged by the Board of Directors of the Company.</p>
+ </div>
+ </div>
+ </section>

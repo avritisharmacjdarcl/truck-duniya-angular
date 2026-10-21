@@ -1,0 +1,5 @@
+/* Moved from the inline <style> block in the <head> of the original public/404.html */
+.nf-wrap { min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 80px 20px; }
+.nf-code { font-size: 130px; font-weight: 900; color: var(--primary); line-height: 1; letter-spacing: -0.04em; }
+.nf-title { font-size: 32px; margin: 12px 0 12px; color: var(--dark); font-weight: 800; letter-spacing: -0.02em; }
+.nf-desc { color: var(--muted); margin-bottom: 30px; max-width: 520px; font-size: 16px; }
