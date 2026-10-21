@@ -1,181 +1,197 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" role="img" aria-label="Truck Duniya growth: trip data unlocks financing and cheaper insurance">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400" role="img"
+     aria-label="TruckScore credit flow: FASTag, GPS and fuel-card data flow into an approval hub, producing a loan approval and an insurance discount, with a TruckScore of 782" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowYWY1YTUwZC1hOGJmLTQwMzYtOTZhMi01YmFjYWM0OTE3MzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKrANx5jbMQFhvI0Mc0rSEMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4MDkwMGRmOC0wMDQyLTQ1MWUtOWVlMi05MTc3NTExYmViYWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo44ofbM5DHRCXObFA7OR5ygAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggqbBEX41SJWqOA7B1mIew4F0gvB4XrUeqKG0ZpHyUnqykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIB/c93YNdoW5oH2IXkpH1cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIEsP5vvvyK4bq1rZo52FzbM804pKu9TvB8QOnJf8P0opZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF6Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBhZjVhNTBkLWE4YmYtNDAzNi05NmEyLTViYWNhYzQ5MTczMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU3NjE3ZTMzLTQwYTItNGFjZC1hZmRhLThkZGVjYmJiNjkwYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCpsERfjVIlao4DsHWYh7DgXSC8HhetR6oobRmkfJSerKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggTQyz/XfFQLZs/ms3N1vnR7hPmgdTrZbAadFyJ4xHm2miY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggL/OiLlMDQr7qYuqSBQYimClMVX+SgbOe5fZLUierKRx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLAPhogkMRLZn9HhmqyrVbn7aO0zWtJlwPFotyXsfietEgPVBHcgZBnWawjEqo9tI7I0VGGfBskkQgDhXzxZR8Y=</c2pa:manifest></metadata>
   <defs>
-    <linearGradient id="bgLight" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#fdf7ec"/>
-      <stop offset="0.55" stop-color="#f5edda"/>
-      <stop offset="1" stop-color="#eee1c1"/>
+    <!-- background -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fdf6e9"/>
+      <stop offset=".55" stop-color="#f3e2c6"/>
+      <stop offset="1" stop-color="#e8c8a4"/>
     </linearGradient>
-    <radialGradient id="glowGold" cx="0.5" cy="0.5" r="0.6">
-      <stop offset="0" stop-color="rgba(199,145,44,0.28)"/>
-      <stop offset="1" stop-color="rgba(199,145,44,0)"/>
-    </radialGradient>
-    <radialGradient id="glowRed" cx="0.85" cy="0.85" r="0.5">
-      <stop offset="0" stop-color="rgba(192,67,39,0.16)"/>
-      <stop offset="1" stop-color="rgba(192,67,39,0)"/>
-    </radialGradient>
-    <linearGradient id="gaugeGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#e34a26"/>
-      <stop offset="0.55" stop-color="#c7912c"/>
-      <stop offset="1" stop-color="#1b8a4a"/>
-    </linearGradient>
-    <linearGradient id="stampGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#22a259"/>
-      <stop offset="1" stop-color="#0f6a3a"/>
-    </linearGradient>
-    <pattern id="dotsLight" width="14" height="14" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="0.85" fill="rgba(15,23,37,0.06)"/>
+    <pattern id="dotGrid" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="7" r=".7" fill="#a88b6a" fill-opacity=".28"/>
     </pattern>
-    <filter id="softShadow2" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
-      <feOffset dx="0" dy="4" result="off"/>
-      <feComponentTransfer><feFuncA type="linear" slope="0.35"/></feComponentTransfer>
-      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+
+    <!-- card shadow -->
+    <filter id="cardShadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#6b4a2a" flood-opacity=".3"/>
+    </filter>
+
+    <!-- approval badge -->
+    <radialGradient id="badgeGrad" cx=".4" cy=".35" r=".75">
+      <stop offset="0" stop-color="#25a85d"/>
+      <stop offset="1" stop-color="#11743b"/>
+    </radialGradient>
+
+    <!-- connector paths -->
+    <path id="flow1" d="M156 84 Q 205 88 234 142"/>
+    <path id="flow2" d="M156 159.5 L 226 159.5"/>
+    <path id="flow3" d="M156 235 Q 205 230 234 177"/>
+
+    <!-- TruckScore gradient (unchanged red → gold → green) -->
+    <linearGradient id="gaugeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#e44f29"/>
+      <stop offset=".3"  stop-color="#d9782c"/>
+      <stop offset=".55" stop-color="#cc9a2e"/>
+      <stop offset=".8"  stop-color="#6f9944"/>
+      <stop offset="1"   stop-color="#2a8f4e"/>
+    </linearGradient>
+
+    <!-- NEW: TruckScore halo (static) -->
+    <linearGradient id="gaugeHaloGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#f0a238"/>
+      <stop offset=".6"  stop-color="#f2b443"/>
+      <stop offset=".85" stop-color="#9cc45a"/>
+      <stop offset="1"   stop-color="#3fae66"/>
+    </linearGradient>
+    <filter id="gaugeHaloBlur" x="-10%" y="-200%" width="120%" height="500%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <!-- tight edge glow: concentrates light along the top and bottom edges -->
+    <filter id="gaugeEdgeGlow" x="-5%" y="-150%" width="110%" height="400%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.4"/>
     </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="500" height="400" fill="url(#bgLight)"/>
-  <rect width="500" height="400" fill="url(#dotsLight)"/>
-  <rect width="500" height="400" fill="url(#glowGold)"/>
-  <rect width="500" height="400" fill="url(#glowRed)"/>
+  <!-- background -->
+  <rect width="500" height="400" fill="url(#bgGrad)"/>
+  <rect width="500" height="400" fill="url(#dotGrid)"/>
 
-  <!-- Data flow paths (curved arrows from left cards to central hub) -->
-  <g fill="none" stroke="#c04327" stroke-width="1.8" stroke-linecap="round" opacity="0.55">
-    <path id="flow1" d="M 154 84 Q 200 90 240 160"/>
-    <path id="flow2" d="M 154 160 Q 200 160 250 160"/>
-    <path id="flow3" d="M 154 236 Q 200 230 240 160"/>
+  <!-- connectors: dashed data-flow lines -->
+  <g fill="none" stroke-linecap="round">
+    <use href="#flow1" stroke="#e7b98c" stroke-width="2.4"/>
+    <use href="#flow2" stroke="#e7b98c" stroke-width="2.4"/>
+    <use href="#flow3" stroke="#e7b98c" stroke-width="2.4"/>
+    <use href="#flow1" stroke="#c9553a" stroke-width="1.4" stroke-dasharray="4 3">
+      <animate attributeName="stroke-dashoffset" from="14" to="0" dur="1s" repeatCount="indefinite"/>
+    </use>
+    <use href="#flow2" stroke="#c9553a" stroke-width="1.4" stroke-dasharray="4 3">
+      <animate attributeName="stroke-dashoffset" from="14" to="0" dur="1s" repeatCount="indefinite"/>
+    </use>
+    <use href="#flow3" stroke="#c9553a" stroke-width="1.4" stroke-dasharray="4 3">
+      <animate attributeName="stroke-dashoffset" from="14" to="0" dur="1s" repeatCount="indefinite"/>
+    </use>
   </g>
-  <g stroke="#c04327" stroke-width="1.8" stroke-linecap="round" opacity="0.7" fill="none" stroke-dasharray="4 5">
-    <path d="M 154 84 Q 200 90 240 160">
-      <animate attributeName="stroke-dashoffset" from="9" to="0" dur="1.2s" repeatCount="indefinite"/>
-    </path>
-    <path d="M 154 160 Q 200 160 250 160">
-      <animate attributeName="stroke-dashoffset" from="9" to="0" dur="1.4s" repeatCount="indefinite"/>
-    </path>
-    <path d="M 154 236 Q 200 230 240 160">
-      <animate attributeName="stroke-dashoffset" from="9" to="0" dur="1.6s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <!-- Particles moving along flow paths -->
-  <circle r="4" fill="#c7912c">
-    <animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#flow1"/></animateMotion>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" repeatCount="indefinite"/>
+
+  <!-- data particles -->
+  <circle r="3.2" fill="#d39a2b">
+    <animateMotion dur="2.4s" begin="0s" repeatCount="indefinite"><mpath href="#flow1"/></animateMotion>
   </circle>
-  <circle r="4" fill="#c04327">
-    <animateMotion dur="2.6s" repeatCount="indefinite" begin="-0.6s"><mpath href="#flow2"/></animateMotion>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.6s" repeatCount="indefinite" begin="-0.6s"/>
+  <circle r="3.2" fill="#c8442a">
+    <animateMotion dur="2.4s" begin="0.8s" repeatCount="indefinite"><mpath href="#flow2"/></animateMotion>
   </circle>
-  <circle r="4" fill="#1b8a4a">
-    <animateMotion dur="2.8s" repeatCount="indefinite" begin="-1.2s"><mpath href="#flow3"/></animateMotion>
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.8s" repeatCount="indefinite" begin="-1.2s"/>
+  <circle r="3.2" fill="#1d8a4f">
+    <animateMotion dur="2.4s" begin="1.6s" repeatCount="indefinite"><mpath href="#flow3"/></animateMotion>
   </circle>
 
-  <!-- Left column: three data-source cards -->
-  <!-- FASTag -->
-  <g transform="translate(20 60)" filter="url(#softShadow2)">
-    <animateTransform attributeName="transform" type="translate" values="20 60; 20 56; 20 60" dur="3.2s" repeatCount="indefinite"/>
-    <rect x="0" y="0" width="136" height="48" rx="10" fill="#fff"/>
-    <circle cx="20" cy="24" r="14" fill="rgba(199,145,44,0.18)"/>
-    <text x="20" y="30" text-anchor="middle" font-family="Inter" font-size="16" font-weight="900" fill="#c7912c">🛣</text>
-    <text x="42" y="20" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" letter-spacing="0.8" fill="#5a6373" textLength="69" lengthAdjust="spacingAndGlyphs">FASTAG DATA</text>
-    <text x="42" y="36" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#0f1725" textLength="71" lengthAdjust="spacingAndGlyphs">26 active days</text>
-    <circle cx="126" cy="10" r="4" fill="#1b8a4a">
-      <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
+  <!-- approval hub -->
+  <g transform="translate(259.3 159.5)">
+    <circle r="34" fill="none" stroke="#e2c27e" stroke-width="1.2" opacity="0">
+      <animate attributeName="r" values="34;52" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".8;0" dur="2.4s" begin="0s" repeatCount="indefinite"/>
     </circle>
+    <circle r="34" fill="none" stroke="#e2c27e" stroke-width="1.2" opacity="0">
+      <animate attributeName="r" values="34;52" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".8;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="46" fill="#e9cf9c" fill-opacity=".25" stroke="#e2c895" stroke-width="1"/>
+    <circle r="42" fill="none" stroke="#e4c99a" stroke-width="1"/>
+    <circle r="38.5" fill="none" stroke="#8f8579" stroke-width="1.1" stroke-dasharray="4 3">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="32" fill="url(#badgeGrad)" stroke="#ffffff" stroke-width="3.2"/>
+    <text y="-4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.6" font-weight="800" fill="#ffffff" letter-spacing=".2">APPROVED</text>
+    <path d="M-9 6 L-3 12 L10 -1" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
-  <!-- GPS -->
-  <g transform="translate(20 136)" filter="url(#softShadow2)">
-    <animateTransform attributeName="transform" type="translate" values="20 136; 20 132; 20 136" dur="3.4s" repeatCount="indefinite" begin="-1s"/>
-    <rect x="0" y="0" width="136" height="48" rx="10" fill="#fff"/>
-    <circle cx="20" cy="24" r="14" fill="rgba(192,67,39,0.16)"/>
-    <text x="20" y="30" text-anchor="middle" font-family="Inter" font-size="16" font-weight="900" fill="#c04327">📍</text>
-    <text x="42" y="20" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" letter-spacing="0.8" fill="#5a6373" textLength="60" lengthAdjust="spacingAndGlyphs">GPS UPTIME</text>
-    <text x="42" y="36" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#0f1725" textLength="79" lengthAdjust="spacingAndGlyphs">98.4% coverage</text>
-    <circle cx="126" cy="10" r="4" fill="#1b8a4a">
-      <animate attributeName="opacity" values="1;0.35;1" dur="1.4s" repeatCount="indefinite" begin="-0.3s"/>
-    </circle>
+  <!-- left data cards -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <!-- FASTAG -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <rect x="20" y="58" width="136" height="47" rx="8" fill="#ffffff" filter="url(#cardShadow)"/>
+      <circle cx="39.5" cy="82" r="13" fill="#f3e6d3"/>
+      <path d="M31 88 L31 81 L35 77 L44 77 L48 81 L48 88 Z" fill="#d39a2b"/>
+      <path d="M33.5 86.5 L38 80.5 L41 84 L43 82 L46 86.5 Z" fill="#f3e6d3"/>
+      <text x="62" y="77" font-size="8.2" font-weight="700" fill="#5b6170" letter-spacing=".6">FASTAG DATA</text>
+      <text x="62" y="92" font-size="10" font-weight="800" fill="#111318">26 active days</text>
+      <circle cx="145.3" cy="66.3" r="3.6" fill="#8fc9a3">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.6s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <!-- GPS -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4s" begin="0.6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <rect x="20" y="136" width="136" height="47" rx="8" fill="#ffffff" filter="url(#cardShadow)"/>
+      <circle cx="39.5" cy="159.5" r="13" fill="#f6dcdc"/>
+      <line x1="39.5" y1="157" x2="39.5" y2="168" stroke="#b9473f" stroke-width="1.4" stroke-linecap="round"/>
+      <circle cx="39.5" cy="154" r="5" fill="#e0596b"/>
+      <circle cx="38" cy="152.6" r="1.5" fill="#f6b8bf"/>
+      <text x="62" y="155.7" font-size="8.2" font-weight="700" fill="#5b6170" letter-spacing=".6">GPS UPTIME</text>
+      <text x="62" y="171.4" font-size="10" font-weight="800" fill="#111318">98.4% coverage</text>
+      <circle cx="145.3" cy="145.3" r="3.6" fill="#7fc196">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.6s" begin="0.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <!-- FUEL CARD -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4s" begin="1.2s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <rect x="20" y="210" width="136" height="47" rx="8" fill="#ffffff" filter="url(#cardShadow)"/>
+      <circle cx="39.5" cy="234" r="13" fill="#d9efe2"/>
+      <rect x="34" y="226" width="9" height="14" rx="1.5" fill="#d0485a"/>
+      <rect x="35.6" y="228" width="5.8" height="4" rx=".8" fill="#f6dcdc"/>
+      <path d="M43 229 L45.5 231 L45.5 238" fill="none" stroke="#d0485a" stroke-width="1.3" stroke-linecap="round"/>
+      <rect x="33" y="239.5" width="11" height="1.6" fill="#a8323f"/>
+      <text x="62" y="229.5" font-size="8.2" font-weight="700" fill="#5b6170" letter-spacing=".6">FUEL CARD</text>
+      <text x="62" y="245" font-size="10" font-weight="800" fill="#111318">₹1.2L / month</text>
+      <circle cx="145.3" cy="219" r="3.6" fill="#4fa772">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.6s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+    </g>
   </g>
 
-  <!-- Fuel Card -->
-  <g transform="translate(20 212)" filter="url(#softShadow2)">
-    <animateTransform attributeName="transform" type="translate" values="20 212; 20 208; 20 212" dur="3.6s" repeatCount="indefinite" begin="-2s"/>
-    <rect x="0" y="0" width="136" height="48" rx="10" fill="#fff"/>
-    <circle cx="20" cy="24" r="14" fill="rgba(27,138,74,0.16)"/>
-    <text x="20" y="30" text-anchor="middle" font-family="Inter" font-size="16" font-weight="900" fill="#1b8a4a">⛽</text>
-    <text x="42" y="20" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" letter-spacing="0.8" fill="#5a6373" textLength="56" lengthAdjust="spacingAndGlyphs">FUEL CARD</text>
-    <text x="42" y="36" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#0f1725" textLength="68" lengthAdjust="spacingAndGlyphs">₹1.2L / month</text>
-    <circle cx="126" cy="10" r="4" fill="#1b8a4a">
-      <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite" begin="-0.6s"/>
+  <!-- 8-MIN DECISION ribbon -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="346.5" y="30.5" width="141" height="23" rx="11.5" fill="#111827"/>
+    <circle cx="360" cy="42" r="3" fill="#2f8a55">
+      <animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/>
     </circle>
+    <text x="421" y="45.6" text-anchor="middle" font-size="9.4" font-weight="800" fill="#ffffff" letter-spacing="1">8-MIN DECISION</text>
   </g>
 
-  <!-- Central approval hub with pulsing rings -->
-  <g transform="translate(260 160)">
-    <!-- Outer expanding rings -->
-    <circle r="34" fill="none" stroke="#c7912c" stroke-width="1.5" opacity="0.45">
-      <animate attributeName="r" values="34;58;34" dur="2.4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.55;0;0.55" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-    <circle r="34" fill="none" stroke="#c7912c" stroke-width="1.5" opacity="0.45">
-      <animate attributeName="r" values="34;58;34" dur="2.4s" repeatCount="indefinite" begin="-1.2s"/>
-      <animate attributeName="opacity" values="0.55;0;0.55" dur="2.4s" repeatCount="indefinite" begin="-1.2s"/>
-    </circle>
-    <!-- Rotating dashed ring -->
-    <circle r="42" fill="none" stroke="rgba(15,23,37,0.35)" stroke-width="1.2" stroke-dasharray="4 6">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Solid stamp circle -->
-    <circle r="34" fill="url(#stampGrad)" stroke="#fff" stroke-width="3" filter="url(#softShadow2)"/>
-    <text y="-4" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" font-weight="900" fill="#fff" letter-spacing="0.6" textLength="46" lengthAdjust="spacingAndGlyphs">APPROVED</text>
-    <path d="M -10 6 L -3 13 L 12 -3" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-
-  <!-- Right side: Loan amount card -->
-  <g transform="translate(330 62)" filter="url(#softShadow2)">
-    <animateTransform attributeName="transform" type="translate" values="330 62; 330 58; 330 62" dur="3.2s" repeatCount="indefinite" begin="-0.4s"/>
-    <rect x="0" y="0" width="158" height="66" rx="12" fill="#fff"/>
-    <rect x="0" y="0" width="4" height="66" fill="#c04327"/>
-    <text x="14" y="18" font-family="Inter, sans-serif" font-size="9" font-weight="700" letter-spacing="1.2" fill="#5a6373" textLength="93" lengthAdjust="spacingAndGlyphs">LOAN APPROVED</text>
-    <text x="14" y="42" font-family="Inter, sans-serif" font-size="22" font-weight="900" fill="#0f1725" textLength="98" lengthAdjust="spacingAndGlyphs">₹4,50,000</text>
-    <text x="14" y="58" font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#5a6373" textLength="93" lengthAdjust="spacingAndGlyphs">Working capital · 8 min</text>
-  </g>
-
-  <!-- Right side: Insurance discount card -->
-  <g transform="translate(330 210)" filter="url(#softShadow2)">
-    <animateTransform attributeName="transform" type="translate" values="330 210; 330 206; 330 210" dur="3.4s" repeatCount="indefinite" begin="-1.6s"/>
-    <rect x="0" y="0" width="158" height="66" rx="12" fill="#fff"/>
-    <rect x="0" y="0" width="4" height="66" fill="#1b8a4a"/>
-    <text x="14" y="18" font-family="Inter, sans-serif" font-size="9" font-weight="700" letter-spacing="1.2" fill="#5a6373" textLength="118" lengthAdjust="spacingAndGlyphs">INSURANCE PREMIUM</text>
-    <text x="14" y="42" font-family="Inter, sans-serif" font-size="22" font-weight="900" fill="#0f1725">-18%</text>
-    <text x="14" y="58" font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#5a6373" textLength="134" lengthAdjust="spacingAndGlyphs">Behaviour-based · GPS + dashcam</text>
+  <!-- outcome cards -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.5s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <rect x="330" y="58" width="157" height="66" rx="8" fill="#ffffff" filter="url(#cardShadow)"/>
+      <path d="M334 58 L330 58 L330 124 L334 124 Z" fill="#c8442a"/>
+      <text x="344" y="76" font-size="8.4" font-weight="700" fill="#5b6170" letter-spacing=".9">LOAN APPROVED</text>
+      <text x="344" y="102" font-size="21.5" font-weight="800" fill="#111318">₹4,50,000</text>
+      <text x="344" y="116" font-size="7.4" font-weight="700" fill="#4b5563">Working capital · 8 min</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="4.5s" begin="1.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <rect x="330" y="209" width="157" height="66" rx="8" fill="#ffffff" filter="url(#cardShadow)"/>
+      <path d="M334 209 L330 209 L330 275 L334 275 Z" fill="#1d8a4f"/>
+      <text x="344" y="226" font-size="8.4" font-weight="700" fill="#5b6170" letter-spacing=".9">INSURANCE PREMIUM</text>
+      <text x="344" y="251.5" font-size="21.5" font-weight="800" fill="#111318">-18%</text>
+      <text x="344" y="265.5" font-size="7.4" font-weight="700" fill="#4b5563">Behaviour-based · GPS + dashcam</text>
+    </g>
   </g>
 
   <!-- TruckScore gauge at bottom -->
-  <g transform="translate(60 320)">
-    <text x="0" y="0" font-family="Inter, sans-serif" font-size="9" font-weight="700" letter-spacing="1.5" fill="#5a6373">TRUCKSCORE</text>
-    <!-- Gauge track -->
-    <rect x="0" y="10" width="380" height="10" rx="5" fill="rgba(15,23,37,0.08)"/>
-    <!-- Gauge fill -->
-    <rect x="0" y="10" width="0" height="10" rx="5" fill="url(#gaugeGrad)">
-      <animate attributeName="width" from="0" to="298" dur="2.2s" fill="freeze" begin="0.2s" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
-    </rect>
-    <!-- Score marker -->
-    <g transform="translate(298 15)">
-      <animateTransform attributeName="transform" type="translate" from="0 15" to="298 15" dur="2.2s" fill="freeze" begin="0.2s" calcMode="spline" keySplines="0.2 0.7 0.2 1"/>
-      <circle r="8" fill="#fff" stroke="#0f1725" stroke-width="1.5"/>
-      <text y="-14" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#0f1725">782</text>
-    </g>
-    <text x="0" y="42" font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#8a94a3">POOR</text>
-    <text x="380" y="42" text-anchor="end" font-family="Inter, sans-serif" font-size="9" font-weight="600" fill="#8a94a3">PRIME</text>
-  </g>
-
-  <!-- Top ribbon: 8-MIN DECISION -->
-  <g transform="translate(346 30)">
-    <rect x="0" y="0" width="142" height="24" rx="12" fill="#0f1725"/>
-    <circle cx="14" cy="12" r="3" fill="#6dd18d">
-      <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="79" y="16" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="900" letter-spacing="1.2" fill="#fff" textLength="90" lengthAdjust="spacingAndGlyphs">8-MIN DECISION</text>
+  <g transform="translate(60 320)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="8.2" font-weight="700" fill="#5b6170" letter-spacing="1.6">TRUCKSCORE</text>
+    <!-- track -->
+    <rect x="0" y="10" width="380" height="10" rx="5" fill="#d8c0a3" fill-opacity=".75"/>
+    <!-- halo: static, behind the fill -->
+    <rect x="-2" y="6" width="302" height="18" rx="9" fill="url(#gaugeHaloGrad)" opacity=".7" filter="url(#gaugeHaloBlur)"/>
+    <rect x="0" y="7.4" width="298" height="15.2" rx="7.6" fill="url(#gaugeHaloGrad)" opacity=".85" filter="url(#gaugeEdgeGlow)"/>
+    <!-- fill: static at 298 / 380 (~78%) -->
+    <rect x="0" y="10" width="298" height="10" rx="5" fill="url(#gaugeGrad)"/>
+    <!-- score: static, centred over the end of the fill -->
+    <text x="298" y="2" text-anchor="middle" font-size="15" font-weight="800" fill="#111827">782</text>
+    <text x="0" y="43" font-size="8.2" font-weight="700" fill="#8a93a6">POOR</text>
+    <text x="380" y="43" text-anchor="end" font-size="8.2" font-weight="700" fill="#8a93a6">PRIME</text>
   </g>
 </svg>
