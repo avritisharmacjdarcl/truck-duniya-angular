@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="A heavy-duty Indian truck refuelling at a lit petrol pump at dusk, with a premium fuel card floating in the foreground">
+<defs>
+ <clipPath id="c"><rect width="1200" height="900" rx="24"/></clipPath>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#181616"/><stop offset=".38" stop-color="#1d1817"/><stop offset=".56" stop-color="#3a1f17"/><stop offset=".66" stop-color="#5a2a1a"/></linearGradient>
+ <radialGradient id="rust" cx="1" cy="1" r=".75"><stop offset="0" stop-color="#C84B2C" stop-opacity=".7"/><stop offset=".45" stop-color="#C84B2C" stop-opacity=".18"/><stop offset="1" stop-color="#C84B2C" stop-opacity="0"/></radialGradient>
+ <radialGradient id="horizon" cx=".55" cy=".66" r=".5"><stop offset="0" stop-color="#D89A38" stop-opacity=".35"/><stop offset="1" stop-color="#D89A38" stop-opacity="0"/></radialGradient>
+ <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2321"/><stop offset="1" stop-color="#121010"/></linearGradient>
+ <linearGradient id="canopy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b2725"/><stop offset="1" stop-color="#1a1817"/></linearGradient>
+ <linearGradient id="cone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe9c2" stop-opacity=".28"/><stop offset="1" stop-color="#ffe9c2" stop-opacity="0"/></linearGradient>
+ <linearGradient id="cab" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9583a"/><stop offset=".6" stop-color="#C84B2C"/><stop offset="1" stop-color="#8e3119"/></linearGradient>
+ <linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ddd2b8"/><stop offset="1" stop-color="#a99c82"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7d97a0"/><stop offset="1" stop-color="#2c3a40"/></linearGradient>
+ <linearGradient id="pump" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3a3533"/><stop offset=".5" stop-color="#4a4441"/><stop offset="1" stop-color="#2a2624"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a2524"/><stop offset=".55" stop-color="#151313"/><stop offset="1" stop-color="#0d0c0c"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3c977"/><stop offset=".5" stop-color="#D89A38"/><stop offset="1" stop-color="#a86f1e"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C84B2C" stop-opacity="0"/><stop offset=".5" stop-color="#C84B2C"/><stop offset="1" stop-color="#D89A38"/></linearGradient>
+ <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset=".3" stop-color="#fff" stop-opacity="0"/><stop offset=".45" stop-color="#fff" stop-opacity=".09"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/></linearGradient>
+ <radialGradient id="vig" cx=".5" cy=".45" r=".75"><stop offset=".55" stop-color="#181616" stop-opacity="0"/><stop offset="1" stop-color="#181616" stop-opacity=".85"/></radialGradient>
+ <clipPath id="cardClip"><rect width="460" height="288" rx="22"/></clipPath>
+ <filter id="b8" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="8"/></filter>
+ <filter id="b3" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3"/></filter>
+ <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="30" stdDeviation="28" flood-color="#000" flood-opacity=".75"/></filter>
+ <filter id="gl" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g clip-path="url(#c)" font-family="Inter, 'Segoe UI', Roboto, Arial, sans-serif">
+ <rect width="1200" height="900" fill="url(#sky)"/>
+ <rect width="1200" height="900" fill="url(#horizon)"/>
+ <!-- distant skyline / hills -->
+ <path d="M0,560 C120,530 220,548 330,540 S560,510 700,528 S960,508 1200,530 L1200,620 L0,620 Z" fill="#241a17"/>
+ <g fill="#1c1513"><rect x="60" y="520" width="26" height="44"/><rect x="92" y="506" width="18" height="58"/><rect x="1120" y="512" width="30" height="52"/><rect x="1156" y="526" width="20" height="38"/></g>
+ <!-- forecourt -->
+ <rect x="0" y="600" width="1200" height="300" fill="url(#ground)"/>
+ <rect x="0" y="600" width="1200" height="2" fill="#4a3a33"/>
+ <!-- canopy -->
+ <rect x="230" y="150" width="990" height="58" fill="url(#canopy)"/>
+ <rect x="230" y="150" width="990" height="10" fill="#C84B2C"/>
+ <rect x="230" y="198" width="990" height="10" fill="#D89A38" fill-opacity=".9"/>
+ <g fill="#fff6e0">
+  <rect x="320" y="208" width="120" height="6" rx="3"/><rect x="560" y="208" width="120" height="6" rx="3"/><rect x="800" y="208" width="120" height="6" rx="3"/><rect x="1040" y="208" width="120" height="6" rx="3"/>
+ </g>
+ <g fill="#fff6e0" opacity=".6" filter="url(#b8)">
+  <rect x="320" y="206" width="120" height="12" rx="6"/><rect x="560" y="206" width="120" height="12" rx="6"/><rect x="800" y="206" width="120" height="12" rx="6"/><rect x="1040" y="206" width="120" height="12" rx="6"/>
+ </g>
+ <g fill="url(#cone)">
+  <polygon points="320,214 440,214 520,640 240,640"/><polygon points="560,214 680,214 760,640 480,640"/><polygon points="800,214 920,214 1000,640 720,640"/><polygon points="1040,214 1160,214 1240,640 960,640"/>
+ </g>
+ <!-- pillars -->
+ <rect x="268" y="208" width="26" height="420" fill="#2c2826"/><rect x="268" y="208" width="6" height="420" fill="#3d3734"/>
+ <rect x="1150" y="208" width="26" height="420" fill="#2c2826"/>
+ <!-- light pools on ground -->
+ <g fill="#ffe2a8" opacity=".14" filter="url(#b8)"><ellipse cx="380" cy="660" rx="200" ry="26"/><ellipse cx="620" cy="664" rx="200" ry="24"/><ellipse cx="860" cy="664" rx="200" ry="24"/></g>
+
+ <!-- dispenser -->
+ <g>
+  <rect x="330" y="400" width="104" height="236" rx="10" fill="url(#pump)"/>
+  <rect x="330" y="400" width="104" height="26" rx="10" fill="#C84B2C"/>
+  <rect x="330" y="416" width="104" height="10" fill="#C84B2C"/>
+  <rect x="346" y="440" width="72" height="44" rx="5" fill="#0f0d0c" stroke="#D89A38" stroke-opacity=".5"/>
+  <rect x="352" y="447" width="60" height="12" rx="2" fill="#D89A38" opacity=".85" filter="url(#gl)"/>
+  <rect x="352" y="465" width="40" height="10" rx="2" fill="#D89A38" opacity=".55"/>
+  <g fill="#1f1c1b"><rect x="352" y="496" width="14" height="10" rx="2"/><rect x="370" y="496" width="14" height="10" rx="2"/><rect x="388" y="496" width="14" height="10" rx="2"/><rect x="352" y="510" width="14" height="10" rx="2"/><rect x="370" y="510" width="14" height="10" rx="2"/><rect x="388" y="510" width="14" height="10" rx="2"/></g>
+  <rect x="320" y="626" width="124" height="14" rx="4" fill="#3a3533"/>
+  <rect x="426" y="520" width="18" height="34" rx="4" fill="#1a1716"/>
+ </g>
+ <!-- hose to truck tank -->
+ <path d="M436,532 C500,520 520,600 560,596 S600,590 612,592" fill="none" stroke="#0e0d0d" stroke-width="7" stroke-linecap="round"/>
+ <path d="M604,586 L628,592 L622,602 L600,596 Z" fill="#D89A38"/>
+
+ <!-- truck (facing left) -->
+ <ellipse cx="800" cy="702" rx="360" ry="22" fill="#000" opacity=".7" filter="url(#b8)"/>
+ <g>
+  <!-- cargo body -->
+  <rect x="660" y="360" width="470" height="266" rx="8" fill="url(#body)" stroke="#141212" stroke-width="5"/>
+  <g stroke="#8f8471" stroke-width="2.5"><line x1="740" y1="366" x2="740" y2="620"/><line x1="820" y1="366" x2="820" y2="620"/><line x1="900" y1="366" x2="900" y2="620"/><line x1="980" y1="366" x2="980" y2="620"/><line x1="1060" y1="366" x2="1060" y2="620"/></g>
+  <rect x="660" y="520" width="470" height="20" fill="#C84B2C"/>
+  <rect x="660" y="546" width="470" height="6" fill="#D89A38"/>
+  <rect x="660" y="360" width="470" height="266" rx="8" fill="url(#sheen)"/>
+  <!-- cab -->
+  <path d="M480,640 L480,450 Q480,420 506,410 L560,392 Q580,386 600,386 L652,386 L652,640 Z" fill="url(#cab)" stroke="#141212" stroke-width="4"/>
+  <!-- sun visor -->
+  <path d="M486,418 L560,394 L652,394 L652,404 L560,404 L494,428 Z" fill="#D89A38"/>
+  <path d="M494,440 L556,416 L630,416 L630,500 L494,500 Z" fill="url(#glass)"/>
+  <path d="M500,442 L530,430 L516,500 L500,500 Z" fill="#fff" fill-opacity=".14"/>
+  <line x1="566" y1="506" x2="566" y2="630" stroke="#141212" stroke-opacity=".5" stroke-width="3"/>
+  <rect x="590" y="530" width="26" height="6" rx="3" fill="#141212" fill-opacity=".6"/>
+  <!-- grille & trims -->
+  <rect x="480" y="560" width="86" height="6" fill="#D89A38"/>
+  <g fill="#D89A38"><path d="M500,580 l10,-10 l10,10 l-10,10 Z"/><path d="M526,580 l10,-10 l10,10 l-10,10 Z"/></g>
+  <!-- mirror -->
+  <rect x="462" y="444" width="10" height="44" rx="4" fill="#141212"/><line x1="472" y1="466" x2="490" y2="458" stroke="#141212" stroke-width="3"/>
+  <!-- headlight -->
+  <circle cx="490" cy="604" r="20" fill="#ffe7b0" opacity=".35" filter="url(#b3)"/>
+  <rect x="482" y="596" width="22" height="14" rx="4" fill="#fff1cc"/>
+  <!-- bumper, chassis, fuel tank -->
+  <rect x="470" y="624" width="110" height="20" rx="5" fill="#141212"/>
+  <rect x="480" y="630" width="650" height="18" rx="4" fill="#141212"/>
+  <rect x="612" y="582" width="70" height="40" rx="10" fill="#9a9590"/><rect x="612" y="582" width="70" height="8" rx="4" fill="#c9c4bd"/>
+  <!-- wheels -->
+  <g>
+   <g><circle cx="540" cy="662" r="40" fill="#0f0e0e"/><circle cx="540" cy="662" r="17" fill="#4d4846"/><circle cx="540" cy="662" r="6" fill="#141212"/></g>
+   <g><circle cx="800" cy="662" r="40" fill="#0f0e0e"/><circle cx="800" cy="662" r="17" fill="#4d4846"/><circle cx="800" cy="662" r="6" fill="#141212"/></g>
+   <g><circle cx="890" cy="662" r="40" fill="#0f0e0e"/><circle cx="890" cy="662" r="17" fill="#4d4846"/><circle cx="890" cy="662" r="6" fill="#141212"/></g>
+   <g><circle cx="1050" cy="662" r="40" fill="#0f0e0e"/><circle cx="1050" cy="662" r="17" fill="#4d4846"/><circle cx="1050" cy="662" r="6" fill="#141212"/></g>
+  </g>
+ </g>
+ <!-- wet-ground reflections -->
+ <g opacity=".18" filter="url(#b3)"><rect x="480" y="708" width="650" height="40" fill="#C84B2C"/><rect x="330" y="704" width="104" height="60" fill="#3a3533"/></g>
+
+ <rect width="1200" height="900" fill="url(#rust)"/>
+ <rect width="1200" height="900" fill="url(#vig)"/>
+
+ <!-- floating fuel card -->
+ <g transform="translate(70 560) rotate(-9 230 140)">
+  <ellipse cx="230" cy="330" rx="200" ry="20" fill="#000" opacity=".5" filter="url(#b8)"/>
+  <g filter="url(#cardShadow)"><rect width="460" height="288" rx="22" fill="url(#card)"/></g>
+  <rect width="460" height="288" rx="22" fill="none" stroke="#D89A38" stroke-opacity=".45" stroke-width="1.5"/>
+  <g clip-path="url(#cardClip)">
+  <!-- accent waves -->
+  <path d="M-10,220 C120,170 260,260 470,170" fill="none" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M-10,240 C140,196 280,276 470,196" fill="none" stroke="#D89A38" stroke-opacity=".35" stroke-width="1.5"/>
+  <circle cx="420" cy="-10" r="120" fill="#C84B2C" fill-opacity=".10"/>
+  <rect width="460" height="288" rx="22" fill="url(#sheen)"/>
+  </g>
+  <!-- chip -->
+  <rect x="34" y="96" width="58" height="44" rx="8" fill="url(#gold)"/>
+  <g stroke="#7a5216" stroke-opacity=".6" stroke-width="1.4" fill="none"><path d="M34,118 H92"/><path d="M58,96 V140"/><path d="M70,96 V140"/><rect x="50" y="108" width="28" height="20" rx="4"/></g>
+  <!-- contactless -->
+  <g fill="none" stroke="#D89A38" stroke-width="2.6" stroke-linecap="round"><path d="M112,108 a14,14 0 0 1 0,20"/><path d="M121,102 a22,22 0 0 1 0,32"/><path d="M130,96 a30,30 0 0 1 0,44"/></g>
+  <!-- fuel drop -->
+  <path d="M414,46 C406,58 400,66 400,74 A14,14 0 0 0 428,74 C428,66 422,58 414,46 Z" fill="url(#gold)"/>
+  <text x="34" y="56" font-size="20" font-weight="800" fill="#f3e6cf" letter-spacing="3">FUEL CARD</text>
+  <text x="34" y="196" font-size="24" font-weight="600" fill="#e9dcc6" letter-spacing="4" font-family="'DejaVu Sans Mono', ui-monospace, monospace">•••• •••• •••• 2048</text>
+  <text x="34" y="254" font-size="12" font-weight="600" fill="#9c9086" letter-spacing="1.6">FLEET ACCOUNT</text>
+  <rect x="356" y="236" width="70" height="24" rx="12" fill="#C84B2C"/>
+  <text x="391" y="252.5" text-anchor="middle" font-size="11.5" font-weight="800" fill="#fff" letter-spacing="1.2">FLEET</text>
+ </g>
+</g>
+</svg>
